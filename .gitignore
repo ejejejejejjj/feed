@@ -1,0 +1,12 @@
+# Ignorar archivos temporales y logs
+*.log
+*.tmp
+
+# Ignorar directorios específicos
+__pycache__/
+.vscode/
+.idea/
+
+# Ignorar archivos py y XML temporales
+*.py
+rss.xml
